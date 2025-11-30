@@ -1,0 +1,7 @@
+{
+  "name": "PillSearch",
+  "description": "Scan or search medicines to understand their uses in simple language. Minimalist, clean, and fast.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
